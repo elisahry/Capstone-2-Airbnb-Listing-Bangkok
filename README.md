@@ -8,3 +8,5 @@ Airbnb merupakan *online platform* yang memungkinkan orang untuk menyewa atau me
 
 ## Problem Statement
 Meskipun Airbnb memberikan banyak keuntungan bagi wisatawan, tantangan muncul dalam hal pengelolaan dan optimalisasi listing untuk mencapai kepuasan pelanggan dan keuntungan maksimal. Tujuan dari analisis ini adalah untuk mengidentifikasi faktor-faktor kunci yang mempengaruhi harga, popularitas, dan ulasan dari pelanggan. Dengan pemahaman ini, host Airbnb dapat meningkatkan strategi mereka untuk menarik lebih banyak tamu, menetapkan harga yang kompetitif, dan meningkatkan layanan yang ditawarkan.
+
+link tableau dashboard: https://public.tableau.com/app/profile/elisa.hariyanti/viz/Airbnb_Listing_Bangkok/Home?publish=yes
